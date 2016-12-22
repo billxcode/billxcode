@@ -1,5 +1,5 @@
 # Welcome honey :*
-![alt tag](https://avatars2.githubusercontent.com/u/11412689?v=3&u=4eb573207eadc349c245ba080ac16039f8cda302&s=400)
+![alt tag](https://avatars2.githubusercontent.com/u/11412689?v=3&u=4eb573207eadc349c245ba080ac16039f8cda302&s=200)
 
 ### About me
 
