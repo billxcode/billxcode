@@ -26,7 +26,7 @@ Hello, Iam Developer from Malang, Indonesia. Iam focus on backend developer but 
 
 ### Contact
 
-you can contact me @ my email : `iam@billtanthowijauhari.net` . see much more contact in [here](http://billtanthowijauhari.net) .
+you can contact me @ my email : `bill.tanthowi.j@gmail.com` . see much more contact in [here](http://bill.web.id) .
 
 ![alt tag](http://i3.kym-cdn.com/entries/icons/original/000/007/582/tumblr_lmputme3co1qa6q7k_large.png)
 
