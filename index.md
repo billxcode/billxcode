@@ -20,9 +20,9 @@ Hello, Iam Developer from Malang, Indonesia. Iam focus on backend developer but 
 
 ### Address
 
-* I stay in Malang, Indonesia. 
-* I am Work in Surabaya, Indonesia.
-* I am born in Pasuruan, Indonesia.
+* I have stay in Malang City, Indonesia. 
+* I have Work in Malang City, Indonesia.
+* I was born from Pasuruan City, Indonesia.
 
 ### Contact
 
